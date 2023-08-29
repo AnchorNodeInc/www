@@ -11,6 +11,9 @@ media.net, 8CUD06Z68, RESELLER
 #Admob
 google.com, pub-8998443629508098, DIRECT, f08c47fec0942fa0
 
+#Meta
+facebook.com, 3334604930184837, RESELLER, c3e20eee3f780d68
+
 #IronSource
 ironsrc.com, 290567, Direct
 adbility-media.com, 187, RESELLER
