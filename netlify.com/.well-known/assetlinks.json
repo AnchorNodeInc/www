@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.anchornode.rabbitcafe",
+      "sha256_cert_fingerprints":
+      ["E8:54:39:A5:BE:F3:48:EB:94:FA:33:C0:78:1E:69:B0:F3:70:20:BE:EA:15:41:3F:E9:5D:C2:E0:D7:4B:A4:07"]
+    }
+}]
